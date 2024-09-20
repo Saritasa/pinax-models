@@ -1,3 +1,6 @@
+# Deprecated
+Moved to: https://github.com/saritasa-nest/usummit-pinax-models
+
 Pinax Models
 ============
 .. image:: http://slack.pinaxproject.com/badge.svg
